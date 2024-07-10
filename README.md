@@ -6,9 +6,9 @@
 
 ## Overview
 
-This project undertakes a comprehensive Market Basket Analysis on Business-to-Business (B2B) transaction data. Unlike typical consumer purchases, B2B transactions are characterized by complex buying patterns and bulk purchasing behaviors. The focus of this analysis is to uncover common associations between products frequently bought together, facilitating strategic decision-making in sales and marketing efforts.
+This project undertakes a comprehensive Market Basket Analysis on Business-to-Business (B2B) transaction data. Unlike typical consumer purchases, B2B transactions are characterized by complex buying patterns and bulk purchasing behaviors. The focus of this analysis is to uncover common associations between products frequently bought together.
 
-Market Basket Analysis in B2B contexts often reveals insights into bundle sales opportunities, cross-selling potentials, and inventory management optimizations, which differ significantly from consumer-oriented retail patterns. These insights are crucial for businesses looking to enhance operational efficiencies and profitability.
+Market Basket Analysis in B2B contexts often reveals insights into bundle sales opportunities, cross-selling potentials and inventory management optimizations, which differ significantly from consumer-oriented retail patterns. 
 
 ## Key Areas Impacted by Market Basket Analysis
 
